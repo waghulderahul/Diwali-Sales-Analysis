@@ -43,6 +43,14 @@ Includes insights on:
 ## 🚀 How to Run
 
 1. Clone the repo:
-   ```bash
+
    git clone https://github.com/waghulderahul/Diwali-Sales-Analysis.git
    cd Diwali-Sales-Analysis
+
+2. Install required libraries:
+
+   pip install pandas matplotlib seaborn
+
+3. Run the notebook:
+
+   jupyter-notebook Diwali_Sales_Analysis.ipynb
